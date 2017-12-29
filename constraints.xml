@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProgGen>
+    <noOfInterfaces>100</noOfInterfaces>
+    <maxNoOfMethodsPerInterface>5</maxNoOfMethodsPerInterface>
+    <noOfClasses>400</noOfClasses>
+    <maxAllowedMethodCalls>5</maxAllowedMethodCalls>
+    <maxValueForLoop>10</maxValueForLoop>
+    <allowIndirectRecursion>no</allowIndirectRecursion>
+    <maximumArraySize>100</maximumArraySize>
+    <noOfInheritanceChains>7</noOfInheritanceChains>
+    <maxNestedIfs>4</maxNestedIfs>
+    <minNoOfClassFields>2</minNoOfClassFields>
+    <allowArray>yes</allowArray>
+    <maxInheritanceDepth>5</maxInheritanceDepth>
+    <maxNoOfParametersPerMethod>10</maxNoOfParametersPerMethod>
+    <minInheritanceDepth>2</minInheritanceDepth>
+    <totalLOC>10000</totalLOC>
+    <maxInterfacesToImplement>2</maxInterfacesToImplement>
+    <maxRecursionDepth>1</maxRecursionDepth>
+    <classNamePrefix>TenKLOC</classNamePrefix>
+    <maxNoOfClassFields>5</maxNoOfClassFields>
+    <maxNoOfMethodsPerClass>20</maxNoOfMethodsPerClass>
+    <recursionProbability>0.5</recursionProbability>
+    <minNoOfParametersPerMethod>3</minNoOfParametersPerMethod>
+    <intMaxValue>100</intMaxValue>
+    <allowedTypes>
+        <char>char</char>
+        <byte>byte</byte>
+        <short>short</short>
+        <int>int</int>
+        <long>long</long>
+        <float>float</float>
+        <double>double</double>
+        <String>String</String>
+        <Object>Object</Object>
+    </allowedTypes>
+</ProgGen>
